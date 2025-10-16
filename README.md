@@ -1,13 +1,28 @@
-Oi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Mariana
-================================================================================================================================
+<div style="background-color: #ffe6f0; padding: 30px; border-radius: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
 
-Finanças e Administração | Redes Sociais | Desenvolvimento Front-End
----------------------------------------------------------------
+<img src="https://live.staticflickr.com/860/40850839204_39080cb01c.jpg" alt="Mariana Carvalho" style="width: 100%; max-width: 600px; border-radius: 10px; margin-bottom: 20px;" />
 
-Sou formado em Administração de Empresas com experiência no departamento financeiro. Atualmente estou passando por uma transição de carreira, gerenciando as mídias sociais de uma software house. Estou cursando MBA em Marketing Digital e cursando Desenvolvedor Front-End oferecido pela Softex.
+<h1>Hello!</h1> 
 
-* 🌍 Sou baseado em Goiânia
-* ✉️ Você pode entrar em contato comigo em [marw2000@gmail.com](mailto:marw2000@gmail.com)
-* 🧠 Atualmente estou aprendendo Desenvolvimento Front-End (HTML, CSS, JavaScript) através de um curso Softex e cursando MBA em Marketing Digital.
+<h2>I'm Mariana</h2>
 
-### Redes sociais <p align="left"> <a href="https://www.github.com/https://github.com/Mariana-Walkiria" target="_blank" rel="noreferrer"> <Foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </imagem> </a></p>
+---
+
+### 💼 Finance & Business Administration | 📱 Social Media | 💻 Front-End Development
+
+I'm a Business Administration graduate with experience in the financial department.  
+Currently, I'm transitioning into a new career by managing social media for a software house.  
+I'm pursuing an MBA in Digital Marketing and studying Front-End Development through a Softex course.
+
+---
+
+- 🌍 **Location:** Aparecida de Goiânia, Brazil  
+- ✉️ **Email:** [marw2000@gmail.com](mailto:marw2000@gmail.com)  
+- 🧠 **Currently learning:**  
+  - Front-End Development (HTML, CSS, JavaScript)  
+  - MBA in Digital Marketing  
+- 🔗 **Connect with me:**
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-mariana--carvalho--044565b3-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mariana-carvalho-044565b3)
+  - [![Instagram](https://img.shields.io/badge/@mary_w_carvalho-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/mary_w_carvalho/)
+
+</div>
