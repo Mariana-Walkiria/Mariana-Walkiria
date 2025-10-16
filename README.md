@@ -12,7 +12,9 @@
 
 <p>
 Graduated in Business Administration, with experience in the financial department and currently working as a Social Media at a software house.
+
 Currently pursuing an MBA in Strategic Digital Marketing and a Front-End Development course at Softex.
+
 Seeking new opportunities to combine business, marketing, and technology in projects that create real impact.
 </p>
 
